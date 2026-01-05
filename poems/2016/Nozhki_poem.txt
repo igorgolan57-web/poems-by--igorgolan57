@@ -1,0 +1,63 @@
+TITLE: Nozhki
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 23.03.2016 01:02     MSK 
+Publication Certificate No. 116032300522 
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Ножки
+
+Мы - мальчишки, вы - девчонки,
+Ножки разные у нас.
+Есть отличье, есть и сходство,
+И об этом мой рассказ.
+
+Всем известно любят ножки
+Через прыгалки скакать.
+Чьи такие попрыгушки?
+Нам не трудно угадать.
+
+Если гонит кто-то мяч
+С гоготом и свистом,
+Можно смело говорить:
+Будет футболистом.
+
+Если кружат туфли в танце,
+Белые носочки -
+Значит, это урок танцев
+У любимой дочки.
+
+Вот топочут башмаки,
+Компас им не нужен.
+Догадайся, кто сейчас
+Все проверит лужи.
+
+Если новые сандали
+В классики играют,
+То ботинки на шнурках
+Камушки сшибают.
+
+Если в ссадинах колени,
+Если нужно их лечить,
+Кто хозяин этих ножек?
+Трудно будет отличить.
+
+А под Новый год у всех
+Красные сапожки.
+Ты попробуй, угадай,
+Где, какие ножки.
+
+Но гадать не буду я -
+Детки все, и с ними я.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

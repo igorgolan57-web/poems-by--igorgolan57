@@ -1,0 +1,45 @@
+TITLE: Pushistyj budilnik
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 23.03.2016 09:41    MSK 
+Publication Certificate No. 116032302858
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Пушистый будильник
+
+Утром рано просыпаюсь
+И тихонечко лежу.
+Глазки чуть приоткрывая,
+За котёночком слежу.
+
+Он запрыгнул мне на койку,
+Стал тихонечко урчать
+И, задумался наверно,
+Как будить меня начать.
+
+Лапкой носик мой потрогал,
+Помурлыкал мяу-мя,
+Ушком, спинкою потёрся,
+Поиграть меня зовя.
+
+Я не смог уже сдержаться,
+Улыбаюсь, глаз открыл:
+"Ты опять меня проказник
+Рано-рано разбудил."
+
+Всё. Будильник мой доволен.
+Побежал из миски пить,
+Чтобы завтра утром рано
+Меня снова разбудить.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

@@ -1,0 +1,35 @@
+TITLE: Top-top Top-top
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 23.03.2016 10:17  MSK  
+Publication Certificate No. 116032303254
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Топ-топ. Топ-топ
+
+Внук шагает рядом с дедом!
+Топ-топ. Топ-топ.
+Кот идёт за ними следом.
+Топ-топ. Топ-топ.
+
+Вместе бегают, шумят
+И наводят шорох,
+Друг за другом поспевая,
+Есть у деда порох.
+
+Когда рядом дед и внук
+Большего не надо.
+Нет счастливей на земле
+Этого отряда.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

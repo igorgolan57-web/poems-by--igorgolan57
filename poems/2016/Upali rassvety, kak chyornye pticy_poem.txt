@@ -1,0 +1,35 @@
+TITLE: Upali rassvety, kak chyornye pticy
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 18.03.2016 00:25     MSK 
+Publication Certificate No. 116031800262 
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Упали рассветы, как чёрные птицы
+
+Упали рассветы, как чёрные птицы
+Угасла надежда во мне.
+Я рву расстоянья, пространство иллюзий
+Хоть эхом остаться в тебе.
+
+Разбитое сердце, на что ты похоже
+На сотни безумных потерь.
+Укрывшись печалью, смирившись с судьбою
+Я жду, как затравленный зверь.
+
+Дождь смоет слезинки, смешает все чувства
+Вдруг станет солёным цветком.
+Всю бездну утраты и горечь разлуки
+Я выпью единым глотком.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

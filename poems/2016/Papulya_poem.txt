@@ -1,0 +1,50 @@
+TITLE: Papulya
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet),  19.03.2016 20:43    MSK   
+Publication Certificate No. 116031910299 
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Папуля
+
+Вечер, тихо. Я играюсь.
+Спать пошла моя сестра.
+Вот и папин голос слышу,
+Что в кроватку мне пора.
+
+Голова склонилась низко
+Только спать я не хочу.
+Лучше я ещё немножко
+Лапку мишке полечу.
+
+Ах, как трудно мне бороться
+Всё же сон меня сильней.
+И я даже не заметил,
+Как уснул среди зверей.
+
+То ли сон, то ли спросонок
+Но я чувствую,  лечу.
+Приоткрыв немножко глазки,
+Разобраться я хочу.
+
+И увидел! Мой папуля
+На руках меня несёт
+И тихонечко ночную
+Мою песенку поёт.
+
+Как приятно и уютно
+На руках его летать.
+Поудобнее устроюсь
+Это лучше, чем кровать.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

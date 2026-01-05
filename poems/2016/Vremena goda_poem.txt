@@ -1,0 +1,60 @@
+TITLE: Vremena goda
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 23.03.2016 09:20  MSK  
+Publication Certificate No. 116032302662 
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Времена года
+
+Эх зима - души раздолье.
+Снег легко кружится,
+Будто нежная ладонь
+На щеку ложится.
+
+Вышли мы играть в снежки,
+Варежки надели.
+Крики, смех и беготня
+Зимний день согрели.
+
+За зимой спешит весна,
+Солнце греет лужи,
+Просыпается земля
+После зимней стужи.
+
+Обожаю этот запах,
+Когда тает снег.
+И ручьи с сугробов талых
+Начинают бег.
+
+И плывут по этим струйкам
+Спички-корабли,
+А за ними поспевают
+Детские шаги.
+
+Вот и лето на подходе:
+Море, речка, пруд,
+Солнце, лес, грибы и птицы
+Наших деток ждут.
+
+Земляники сладкий запах
+Чудится в лесу,
+И слезинки леса лягут
+В чистую росу.
+
+Осень двери распахнула,
+Краски разбросав.
+В небе листья закружила,
+Холодом объяв.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

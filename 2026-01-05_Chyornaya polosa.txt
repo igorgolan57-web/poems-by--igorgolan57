@@ -1,0 +1,35 @@
+txt
+TITLE: Chyornaya polosa
+AUTHOR: Igor Getzls
+DATE OF CREATION:2026-01-05 /January/
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 20.03.2016 09:43 - Publication Certificate No. 116032003045
+- GitHub repository, 2026-01-05 /January/
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Чёрная полоса
+Игорь Гецельс
+Сколько я в пути не знаю.
+Всё запуталось внутри.
+Снова я иду по краю
+Ну, куда же мне идти?
+
+Грусть, тоска на сердце гложет
+Закадычные друзья.
+Может пропасть мне поможет,
+Поглотив их и меня.
+
+Ночь кругом, впотьмах блуждаю
+Дайте хоть намёк на свет.
+Сколько выдержу не знаю
+И увижу ли рассвет
+--------------------------
+
+COPYRIGHT NOTICE:
+© 2026 [Igor Getzls]. All rights reserved.

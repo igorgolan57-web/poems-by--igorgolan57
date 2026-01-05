@@ -1,9 +1,10 @@
-txt
+tеxt
 TITLE: Chyornaya polosa
 AUTHOR: Igor Getzls
-DATE OF CREATION:2026-01-05 /January/
+DATE OF CREATION: before 2016 
 FIRST PUBLICATION:
-- stihi.ru (author cabinet), 20.03.2016 09:43 - Publication Certificate No. 116032003045
+- stihi.ru (author cabinet), 2016-03-20 09:43 MSK 
+- Publication Certificate No. 116032003045
 - GitHub repository, 2026-01-05 /January/
 
 DESCRIPTION:
@@ -14,7 +15,7 @@ This file is published to fix authorship and creation date.
 TEXT:
 ------------------
 Чёрная полоса
-Игорь Гецельс
+
 Сколько я в пути не знаю.
 Всё запуталось внутри.
 Снова я иду по краю
@@ -32,4 +33,5 @@ TEXT:
 --------------------------
 
 COPYRIGHT NOTICE:
-© 2026 [Igor Getzls]. All rights reserved.
+© Igor Getzls. All rights reserved.
+

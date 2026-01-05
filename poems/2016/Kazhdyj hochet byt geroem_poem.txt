@@ -1,0 +1,35 @@
+TITLE: Kazhdyj hochet byt geroem
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet),  16.03.2016 13:53    MSK 
+Publication Certificate No. 116031605522 
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Каждый хочет быть героем
+
+Каждый хочет быть героем,
+Но не каждому дано.
+Каждый хочет быть богатым,
+А не выгребать дерьмо.
+
+Что за сила сортирует
+Где, кому, за что и как
+Праведник получит корку,
+А убийца особняк.
+
+Бред, маразм вокруг витают
+Нет ни логики, ни слов,
+А наивный ищет правду
+Полагаясь на богов.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

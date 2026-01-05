@@ -1,0 +1,40 @@
+TITLE: Osen
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2013 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 14.11.2013 20:24 MSK 
+- Publication Certificate No. 113111409085
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Осень
+
+Прошлась палитра по тайге,
+Разбрасывая краски,
+Как будто пьяный исполнял
+Безбашенные пляски.
+
+Ещё вчера была она
+В зелёном строгом платье.
+Сегодня шумный карнавал
+Схватил в свои объятья.
+
+Здесь осень празднует своё
+Цветное новоселье
+И приглашает всех черпать
+Любовь и вдохновение.
+
+Здесь нет предела и границ
+Для взрыва ярких красок.
+Так жизнь хотелось бы прожить
+Без лжи, вранья и масок.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

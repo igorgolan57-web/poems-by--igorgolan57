@@ -1,0 +1,35 @@
+TITLE: Ura! Ura!
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 23.03.2016 10:20    MSK
+Publication Certificate No. 116032303281
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Ура! Ура!
+
+В доме праздник и веселье
+Все кричат: "Ура! Ура!"
+Улыбаются, смеются
+И всё смотрят на меня.
+
+Папа с мамой мне вручают
+Кран, вручают говоря,
+Что сегодня я родился
+Ровно в середине дня.
+
+Нет, наверно это шутка,
+Улыбнулся я в душе.
+Я не мог сейчас родиться
+Мне три годика уже.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

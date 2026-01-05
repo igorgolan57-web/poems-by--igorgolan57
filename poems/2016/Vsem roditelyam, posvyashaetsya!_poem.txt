@@ -1,0 +1,35 @@
+TITLE: Vsem roditelyam, posvyashaetsya! 
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet),  23.03.2016 10:50   MSK 
+Publication Certificate No. 116032303638 
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Всем родителям, посвящается!
+
+Заберусь с утра на ручки,
+Это мне по нраву,
+Обниму её за шею,
+Так люблю я маму.
+
+Можно  целый день сидеть,
+Кушать, спать, крутиться.
+Ни за что меня не снимет,
+Стоит лишь скривиться.
+
+Ручки мамины устали,
+Я тяжёл по весу.
+Вы же сами приучили
+Ни за что не слезу!
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

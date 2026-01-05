@@ -1,0 +1,50 @@
+TITLE: Zaryadka
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2016 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet),  23.03.2016 09:09   MSK  
+Publication Certificate No. 116032302566
+- GitHub repository, 2026-01-05 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Зарядка
+
+Утро окна распахнуло:
+Свежий ветер, заходи.
+Поднимай меня с постели
+И проснуться помоги.
+
+Я встаю и сразу - в ванну...
+Умываюсь, а потом
+Превращаю свою спальню
+В олимпийский стадион.
+
+Руки в боки, ноги шире,
+Мне зарядка по плечу.
+Стану сильным я и смелым,
+Может, в космос полечу.
+
+Вот я прыгаю на месте,
+Приседаю много раз,
+Наклоняюсь, отжимаюсь
+И считаю каждый раз:
+
+Раз и два - наклон и выдох,
+Три четыре - снова вдох.
+Физзарядка - наслажденье,
+Будто яблочный пирог.
+
+Как закончу упражненья,
+Возвращаюсь в душ опять.
+И теперь смогу я снова
+День, как новенький начать.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.

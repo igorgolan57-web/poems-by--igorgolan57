@@ -1,0 +1,40 @@
+TITLE: Ne hochu byt pticej
+AUTHOR: Igor Getzls
+DATE OF CREATION:before 2018 (exact date unknown)
+FIRST PUBLICATION:
+- stihi.ru (author cabinet), 08.01.2018 10:06  MSK  
+Publication Certificate No. 118010803319 
+- GitHub repository, 2026-01-06 
+
+DESCRIPTION:
+Original poetry text. Created independently by the author.
+The text existed prior to any use in AI systems or third-party platforms.
+This file is published to fix authorship and creation date.
+
+TEXT:
+------------------
+Не хочу быть птицей
+
+Не хочу быть птицей,
+Но хочу летать я.
+Что бы свежий ветер
+Мне дарил объятья.
+
+Что бы звёзды неба
+Землю украшали.
+Что бы мы любили,
+Что бы мы прощали.
+
+Я хочу свободы
+Для души и тела.
+Чтоб желаньям тайным
+Не было предела.
+
+Чтоб закрылись очи
+Не на смертном ложе
+От любви безумной
+На тебя похожей.
+--------------------------
+
+COPYRIGHT NOTICE:
+© Igor Getzls. All rights reserved.
